@@ -1,3 +1,29 @@
+# GoHealth
+
+GoHealth (also Entrocone health) is a non-profit professional mental health assessment platform dedicated to providing professional, convenient, and secure mental health services, making scientific psychological assessment accessible to all.
+
+## Platform Features
+
+- Privacy Protection: No registration required. All data is stored locally to strictly protect your privacy.
+- Professional Scales: Adopts internationally recognized standardized psychological scales with scientific and reliable results.
+- Instant Feedback: Get detailed analysis and suggestions immediately after completing a test.
+- Free for Public Welfare: All tests are completely free, making mental health services accessible to the general public.
+
+## Core Functions
+
+- Psychological Scale Tests: Provides SDS, SAS, SCL-90, NEO-PI-R, PSS-14, SES and other professional assessment tools.
+- Personal Center: Supports user registration and login, profile management, and viewing of historical test records.
+- Public Welfare Mutual Aid: Provides chat room and other functions for user communication and mutual assistance.
+
+## <span style="color: #d9534f;">Project Notice</span>
+
+<span style="color: #d9534f; font-weight: bold;">Due to domestic website filing and other related requirements, this project is only for BUG feedback and contact via GitHub Issues. The source code is not publicly available temporarily.</span>
+
+## Contact Information
+
+- GitHub Issue: BUG feedback and project communication
+- QQ Group: 1017772045
+
 
 # 金织网 (GoHealth)
 
